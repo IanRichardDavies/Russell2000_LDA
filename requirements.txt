@@ -1,0 +1,8 @@
+Russell2000_NMF Required Packages:
+
+numpy
+pandas
+sklearn
+nltk
+gensim
+textblob
